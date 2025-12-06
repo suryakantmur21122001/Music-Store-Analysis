@@ -16,16 +16,27 @@ The goal of this project is to derive meaningful business insights such as:
 
 Music Store Analysis/
 ├── Music_Store_Analysis.sql # Main SQL query file
+
 ├── album.csv
+
 ├── artist.csv
+
 ├── customer.csv
+
 ├── employee.csv
+
 ├── genre.csv
+
 ├── invoice.csv
+
 ├── invoice_line.csv
+
 ├── media_type.csv
+
 ├── playlist.csv
+
 ├── playlist_track.csv
+
 └── track.csv
 
 
