@@ -15,6 +15,7 @@ The goal of this project is to derive meaningful business insights such as:
 ## 📁 Project Structure
 
 Music Store Analysis/
+
 ├── Music_Store_Analysis.sql # Main SQL query file
 
 ├── album.csv
